@@ -1,1 +1,1 @@
-Use tucker RewriteFilter in Spring Boot app.
+Spring boot + Tuckey url rewrite filter
